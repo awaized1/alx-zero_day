@@ -1,0 +1,7 @@
+git clone
+git config
+git add .
+git commit -m
+git push
+git switch
+git branch
